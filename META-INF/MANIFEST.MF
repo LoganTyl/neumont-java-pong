@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: edu.neumont.tyler.pong.Pong
+Class-Path: .
+

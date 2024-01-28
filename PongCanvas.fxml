@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.canvas.Canvas?>
+
+<StackPane xmlns:fx="http://javafx.com/fxml/1"
+			fx:controller="edu.neumont.tyler.pong.view.PongView">
+	<Canvas fx:id="drawingCanvas" width="1000" height="800" ></Canvas>
+</StackPane>
